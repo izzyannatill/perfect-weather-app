@@ -1,0 +1,11 @@
+.Weather {
+    color:blueviolet;
+    border: 1px solid blueviolet;
+    padding: 10px;
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+    border-color: blueviolet;
+}
